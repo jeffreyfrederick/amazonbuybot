@@ -1,6 +1,6 @@
 <h1>Amazon Buy Bot</h1>
 
-<p>Amazon Buy Bot made in Python using Qt, the Playwright API and the Chromium web driver.</p>
+<p>Amazon Buy Bot made in Python using Qt, the Playwright API and the Chromium web driver. Cookies are utilized to bypass automation safegaurds and must be stored in a .CSV file.</p>
 
 <h3>Screenshots:</h3>
 <img src="https://i.postimg.cc/ZncbbxtS/Screen-Shot-2022-10-02-at-3-14-05-AM.png">
